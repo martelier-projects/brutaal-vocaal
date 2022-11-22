@@ -1,6 +1,21 @@
 {
   "years": [
     {
+      "label": "2022",
+      "gigs": [
+        {
+          "fullDate": "23-10-2022",
+          "day": "23",
+          "month": "Oct",
+          "location": "Optreden i.v.m. Kunst10daagse in de hallen van Min (aanvang 13.30 uur)",
+          "city": "Bergen",
+          "href": "http://brutaalvocaal.nl/Kunst10daagse",
+          "past": false,
+          "note": ""
+        }
+      ]
+    },
+    {
       "label": "2020",
       "gigs": [
         {
