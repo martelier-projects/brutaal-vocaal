@@ -28,6 +28,6 @@
   "dirigentText": {
     "title": "Dirigent Margot Endel",
     "titleType": "h1",
-    "texts": ["<a href=\"www.margotendel.nl\">www.margotendel.nl</a>"]
+    "texts": ["<a href=\"https://margotendel.nl\">www.margotendel.nl</a>"]
   }
 }
